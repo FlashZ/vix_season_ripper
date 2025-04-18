@@ -67,7 +67,7 @@ You can tweak behavior by editing the top of vix_downloader.py:
 # at top of script
 MPD_TIMEOUT = 45        # time to wait for .mpd URL (seconds)
 SAFE = "-_.() abc…0123456789"  # allowed filename chars
-
+```
 Or adjust:
 
 Scroll delays: time.sleep(...) after selections
@@ -75,7 +75,7 @@ Scroll delays: time.sleep(...) after selections
 max_scrolls in scroll_and_extract_metadata()
 
 N_m3u8DL-RE flags (bitrate selection, threads)
-```
+
 ---
 
 ## 🔄 Resume & Logging
