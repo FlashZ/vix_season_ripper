@@ -30,7 +30,7 @@
 git clone https://github.com/FlashZ/vix-season-ripper.git
 cd vix-season-ripper
 pip install -r requirements.txt
-# ensure N_m3u8DL-RE & ffmpeg are installed and in PATH
+### ensure N_m3u8DL-RE & ffmpeg are installed and in PATH
 
 ---
 
