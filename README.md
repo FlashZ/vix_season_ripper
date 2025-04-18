@@ -19,7 +19,6 @@
 
 - Python 3.8+  
 - [Chrome ≥115](https://www.google.com/chrome/) + matching Chromedriver  
-- `pip install selenium rich tqdm unidecode`  
 - **N_m3u8DL‑RE** & **ffmpeg** in `$PATH`  
 
 ---
@@ -29,8 +28,9 @@
 
 git clone https://github.com/FlashZ/vix-season-ripper.git
 cd vix-season-ripper
-pip install -r requirements.txt
-### ensure N_m3u8DL-RE & ffmpeg are installed and in PATH
+pip install selenium rich tqdm unidecode
+
+Note: ensure N_m3u8DL-RE & ffmpeg are installed and in PATH
 
 ---
 
