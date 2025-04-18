@@ -89,6 +89,7 @@ failures.log records episodes that failed to download or convert.
 
 ## 🙌 Support Me
 If you find this tool useful, I’d appreciate a coffee:
+<a href="https://buymeacoffee.com/nickkb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ---
 
