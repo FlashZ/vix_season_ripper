@@ -19,7 +19,7 @@
 
 - Python 3.8+  
 - [Chrome ≥115](https://www.google.com/chrome/) + matching Chromedriver  
-- **N_m3u8DL‑RE** & **ffmpeg** in `$PATH`  
+- **N_m3u8DL‑RE** in `$PATH`  
 
 ---
 
