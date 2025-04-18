@@ -43,6 +43,7 @@ python vix_downloader.py \
   --lang es \
   --out /path/to/downloads \
   [--headless] [--debug]
+```
 
 url – Base series URL
 
@@ -74,7 +75,7 @@ Scroll delays: time.sleep(...) after selections
 max_scrolls in scroll_and_extract_metadata()
 
 N_m3u8DL-RE flags (bitrate selection, threads)
-
+```
 ---
 
 ## 🔄 Resume & Logging
