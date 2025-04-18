@@ -2,6 +2,7 @@
 """
 Robust **ViX season ripper** – **v1**
 =======================================
+"""
 from __future__ import annotations
 import argparse, csv, json, logging, re, subprocess, time
 from pathlib import Path
