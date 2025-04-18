@@ -20,7 +20,7 @@
 - Python 3.8+  
 - [Chrome ≥115](https://www.google.com/chrome/) + matching Chromedriver  
 - `pip install selenium rich tqdm unidecode`  
-- **N_m3u8DL‑RE 20241203+** & **ffmpeg** in `$PATH`  
+- **N_m3u8DL‑RE** & **ffmpeg** in `$PATH`  
 
 ---
 
